@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.p {
+background-color: rgb(255, 167, 167);
+font-family: Verdana, "DeJaVu Sans", sans-serif;
+}
+
+.font-size {
+font-size: 24px;
+}
+
+#div2 {
+color: rgb( 0, 0, 255);
+font-size: 36px;
+}
+
+#div4 {
+background-color: #80FF80;
+font-weight: bold;
+}
